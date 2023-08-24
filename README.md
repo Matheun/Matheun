@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Matheun Struik
-_Location: Netherlands 🇳🇱_
+_Location: Netherlands_
 
 ---
 
@@ -41,7 +41,5 @@ Having contributed to **20+ projects**, Matheun has garnered a proven track reco
 With a passion for both design and development, Matheun seamlessly bridges the gap between user-centric design and cutting-edge front-end technologies, ensuring an optimal user experience in every project he undertakes.
 
 ---
-
-<div id="header" align="center"> <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="100"/> </div>
 
 🔗 _Connect with me on [LinkedIn]([Your-LinkedIn-Link](https://www.linkedin.com/in/matheun-struik-4baa2b1b1)https://www.linkedin.com/in/matheun-struik-4baa2b1b1)!_
