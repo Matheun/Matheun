@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Matheun Struik
-_Location: Netherlands_
-
----
+**Location:** Netherlands
 
 **Profession:** Front-end Developer & UI/UX Designer
 
