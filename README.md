@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Matheun Struik
+_Location: Netherlands_
+
+---
+
+**Profession:** Front-end Developer & UI/UX Designer
+
+**Experience:** Over 2 years of hands-on experience in crafting intuitive and dynamic digital experiences.
+
+---
+
+### 🌟 About:
+
+Having contributed to **20+ projects**, Matheun has garnered a proven track record of keen analysis and problem-solving skills, coupled with extremely efficient workflows. He possesses expertise in a diverse range of programming languages, most notably:
+
+- **Vue**
+- **Nuxt**
+- **Sass**
+- **CSS**
+- **JavaScript**
+- **TypeScript**
+- **NodeJS**
+
+With a passion for both design and development, Matheun seamlessly bridges the gap between user-centric design and cutting-edge front-end technologies, ensuring an optimal user experience in every project he undertakes.
+
+---
+
+🔗 _Connect with me on [LinkedIn]([Your-LinkedIn-Link](https://www.linkedin.com/in/matheun-struik-4baa2b1b1)https://www.linkedin.com/in/matheun-struik-4baa2b1b1)!_
