@@ -8,7 +8,8 @@
 
 ### 🌟 About Me:
 
-Hello there! 👋 I'm Matheun, a dedicated Front-end Developer and UI/UX Designer with a passion for creating pixel-perfect, user-friendly designs and turning them into interactive web experiences.
+Hello there!
+👋 I'm Matheun, a dedicated Front-end Developer and UI/UX Designer with a passion for creating pixel-perfect, user-friendly designs and turning them into interactive web experiences.
 
 Having been a key contributor to **20+ projects**, I've garnered a proven track record of keen analysis, problem-solving skills and efficient workflows. My toolkit includes:
 
