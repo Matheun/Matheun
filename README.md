@@ -2,7 +2,7 @@
 
 📍 **Location:** Netherlands  
 💼 **Profession:** Front-end Developer & UI/UX Designer  
-📆 **Experience:** Over 2 years crafting intuitive & dynamic digital experiences.
+📆 **Experience:** Over 3 years crafting intuitive & dynamic digital experiences.
 
 ---
 
